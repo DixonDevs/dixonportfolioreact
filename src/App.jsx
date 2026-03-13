@@ -106,7 +106,7 @@ export default function DanielDixonPortfolio() {
 
             <div className="flex flex-wrap gap-3">
               <a
-                href="mailto:daniel.dixon101@gmail.com"
+                href="mailto:danieldixon.dev@gmail.com"
                 className="rounded-2xl bg-cyan-400 px-5 py-3 font-medium text-neutral-950 transition hover:-translate-y-0.5"
               >
                 Contact Me
@@ -121,7 +121,7 @@ export default function DanielDixonPortfolio() {
 
             <div className="grid gap-4 sm:grid-cols-3">
               {[
-                ["Base", "Jonesboro, AR"],
+                ["Base", "Yakima, WA"],
                 ["Status", "Open to Remote Roles"],
                 ["Target", "$75k–$85k"],
               ].map(([label, value]) => (
@@ -281,7 +281,7 @@ export default function DanielDixonPortfolio() {
                 I’m currently exploring remote software development roles where I can contribute across Flutter, Laravel, PHP, JavaScript, and full-stack product work.
               </p>
               <div className="mt-5 flex flex-wrap gap-3">
-                <a href="mailto:daniel.dixon101@gmail.com" className="rounded-2xl bg-white px-5 py-3 font-medium text-neutral-950">
+                <a href="mailto:danieldixon.dev@gmail.com" className="rounded-2xl bg-white px-5 py-3 font-medium text-neutral-950">
                   Email Daniel
                 </a>
                 <a href="tel:+18706159088" className="rounded-2xl border border-white/15 px-5 py-3 font-medium text-white">
